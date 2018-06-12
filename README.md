@@ -14,7 +14,7 @@ For running just the application, use the file application.py.
 
 Please use python 3.6.3 interpreter to run the programs.
 
-Please install all the following python libraries (if necesary):
+Please install all the following python libraries (if neccessary):
 1. urllib
 2. json
 3. datetime
