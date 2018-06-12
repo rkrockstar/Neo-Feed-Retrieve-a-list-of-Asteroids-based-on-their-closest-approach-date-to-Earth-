@@ -12,5 +12,14 @@ For running the application as well as test cases, run only one file named test_
 
 For running just the application, use the file application.py.
 
-Please use python 3.6.3.
+Please use python 3.6.3 interpreter to run the programs.
+
+Please install all the following python libraries (if necesary):
+1. urllib
+2. json
+3. datetime
+4. sys
+5. unittest
+6. requests
+
 
