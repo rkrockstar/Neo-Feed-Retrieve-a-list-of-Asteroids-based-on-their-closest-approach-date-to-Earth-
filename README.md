@@ -31,3 +31,4 @@ Example: If you made 500 requests at 10:15AM and 500 requests at 10:25AM, your A
 Please input the date range according to the API requirements. Limits are placed on the number of API requests you may make using your API key. Rate limits may vary by service, but the defaults are:
 Hourly Limit: 1,000 requests per hour
 
+*Note : The number of asteroids change according to the dates. So does the data.
