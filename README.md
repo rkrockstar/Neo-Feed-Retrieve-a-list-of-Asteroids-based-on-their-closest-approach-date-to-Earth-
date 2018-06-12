@@ -12,3 +12,5 @@ For running the application as well as test cases, run only one file named test_
 
 For running just the application, use the file application.py.
 
+Please use python 3.6.3.
+
